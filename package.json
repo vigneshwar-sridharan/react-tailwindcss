@@ -1,0 +1,23 @@
+{
+  "name": "react-tailwindcss",
+  "version": "0.0.1",
+  "description": "tailwind css for react",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vigneshwar-sridharan/react-tailwindcss.git"
+  },
+  "keywords": [
+    "tailwindcss",
+    "react-tailwindcss"
+  ],
+  "author": "Vigneshwar Sridharan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vigneshwar-sridharan/react-tailwindcss/issues"
+  },
+  "homepage": "https://github.com/vigneshwar-sridharan/react-tailwindcss#readme"
+}
